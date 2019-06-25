@@ -1,0 +1,9 @@
+/*
+ * This stylesheet provides some additional styling.
+ */
+
+
+ body{
+   background-color: rgba(50, 50, 50, 1) ;
+   color: white;
+ }

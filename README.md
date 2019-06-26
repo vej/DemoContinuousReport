@@ -16,7 +16,7 @@ The **jspsych-snap-keyboard-response.js** plugin is used in the first, "Study" p
 
 As the cursor moves around the wheel, the central svg image changes color. Selecting with the cursor records the selected color.
 
-The recorded color and error is recorded (the correct color is given within the task.html script)
+The selected color and error is recorded (the correct color is given within the task.html script)
 
 <img src="readme_contents/color_wheel_trial.gif"  width=50% />
 
